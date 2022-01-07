@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.42",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
